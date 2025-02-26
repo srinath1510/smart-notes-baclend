@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+
+# Virtual environment
+notes_backend_env/
+
+# IDE and editor files
+*.swp
+*.swo
